@@ -4,30 +4,32 @@
     "link": "https://github.com/jamisonjcjohnson",
     "image": "images/social/github.svg"
   },
+  /*
   {
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
     "image": "images/social/twitter.svg"
   },
   {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
+    "name": "Facebook",
+    "link": "https://facebook.com",
+    "image": "images/social/facebook.svg"
+  },
+  */
+  {
+    "name": "Email",
+    "link": "mailto:johnsonpremierconsulting@gmail.com",
+    "image": "images/social/email.svg"
   },
   {
-      "name": "Email",
-      "link": "mailto:johnsonpremierconsulting@gmail.com ",
-      "image": "images/social/email.svg"
+    "name": "Instagram",
+    "link": "https://www.instagram.com/johnsonpremierconsulting/",
+    "image": "images/social/instagram.svg"
   },
   {
-      "name": "Instagram",
-      "link": "https://www.instagram.com/johnsonpremierconsulting/",
-      "image": "images/social/instagram.svg"
-  },
-  {
-      "name": "Discord",
-     "link": "https://discord.com",
-      "image": "images/social/discord.svg"
+    "name": "Discord",
+    "link": "https://discord.com",
+    "image": "images/social/discord.svg"
   }
-
 ]
+
