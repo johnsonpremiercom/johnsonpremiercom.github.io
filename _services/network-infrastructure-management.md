@@ -4,7 +4,9 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-At Johnson Premier Consulting, LLC, we understand that a secure and efficient network infrastructure is the backbone of any successful business. Our Network Infrastructure Management services are designed to provide comprehensive solutions that ensure your network is not only secure but also optimized for performance and reliability. With nearly 15 years of experience in IT support and network management, we bring a deep understanding of both the technical and strategic aspects of network infrastructure. Here’s how we can help your business thrive:
+We understand that a secure and efficient network infrastructure is the backbone of any successful business. Our Network Infrastructure Management services are designed to provide comprehensive solutions that ensure your network is not only secure but also optimized for performance and reliability. With nearly 15 years of experience in IT support and network management, we bring a deep understanding of both the technical and strategic aspects of network infrastructure. 
+
+Here’s how we can help your business thrive:
 
 ![Network Infrastructure Management](/images/illustrations/network-infrastructure-management.jpg)
 
