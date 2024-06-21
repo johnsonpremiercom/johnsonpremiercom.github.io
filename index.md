@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: JPC Landing Page
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top-tier IT support services tailored to meet the unique needs of your business.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Comprehensive IT Support Services
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top-tier IT support services tailored to meet the unique needs of your business. With nearly 15 years of experience in government support and system administration, we bring a wealth of expertise to ensure your IT infrastructure is robust, secure, and efficiently managed, allowing you to focus on what you do best.

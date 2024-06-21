@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: 'https://johnsonpremiernet.github.io/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Johnson Premier Consulting'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
