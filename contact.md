@@ -4,13 +4,4 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Thank you for your interest in Johnson Premier Consulting, LLC. Whether you have questions about our IT support services, need assistance with a project, or want to explore collaboration opportunities, we're here to help. Feel free to reach out to us using the contact information provided above. Our dedicated team is committed to providing timely responses and expert guidance tailored to meet your specific needs. We look forward to hearing from you and discussing how we can support your business with our comprehensive IT solutions.
