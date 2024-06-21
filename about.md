@@ -5,7 +5,6 @@ description: About
 bodyClass: page-about
 ---
 
-# About
 Welcome to Johnson Premier Consulting, LLC, where expertise meets dedication in delivering top-tier IT solutions tailored to elevate your business operations. With nearly 15 years of experience in government support and system administration, we bring a wealth of knowledge in various facets of IT, ensuring robust network security, efficient system administration, and seamless troubleshooting for software and hardware.
 
 ![Accounting Services](/images/about.jpg)
