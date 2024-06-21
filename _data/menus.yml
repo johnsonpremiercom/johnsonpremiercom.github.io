@@ -11,6 +11,12 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "Portfolio"
+    url: "https://jamisonjohnson.me"
+    weight: 6
+  - name: "Blog"
+    url: "https://jamisonjohnson.me/blog"
+    weight: 7
 
 footer:
   - name: "Home"
