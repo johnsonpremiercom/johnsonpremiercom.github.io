@@ -1,5 +1,5 @@
 ---
-title: JPC Landing Page
+title: Johnson Premier Consulting
 layout: home
 description: Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top-tier IT support services tailored to meet the unique needs of your business.
 intro_image: "images/illustrations/reading.svg"
