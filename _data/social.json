@@ -1,17 +1,22 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/jamisonjcjohnson",
-    "image": "images/social/github.svg"
-  },
-  {
     "name": "Email",
     "link": "mailto:johnsonpremierconsulting@gmail.com",
     "image": "images/social/email.svg"
   },
   {
+    "name": "Github",
+    "link": "https://github.com/jamisonjcjohnson",
+    "image": "images/social/github.svg"
+  },
+  {
     "name": "Instagram",
     "link": "https://www.instagram.com/johnsonpremierconsulting/",
     "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/jamisonjcjohnson/",
+    "image": "images/social/linkedin.svg"
   }
 ]
