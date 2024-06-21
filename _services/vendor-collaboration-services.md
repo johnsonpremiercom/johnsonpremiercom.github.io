@@ -4,7 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-We understand that effective vendor and collaboration management is crucial for the seamless operation and growth of your business. Our Vendor and Collaboration Services are designed to streamline your interactions with third-party vendors and enhance the collaborative efforts of your IT development teams. By acting as a single point of contact and providing expert coordination, we ensure that your IT projects are executed efficiently, securely, and with the highest quality standards.
+Effective vendor and collaboration management is crucial for the seamless operation and growth of your business. Our Vendor and Collaboration Services are designed to streamline interactions with third-party vendors and enhance collaborative efforts within your IT development teams. Acting as a single point of contact and providing expert coordination, we ensure that your IT projects are executed efficiently, securely, and to the highest quality standards.
 
 ![Vendor and Collaboration Services](/images/illustrations/vendor-collaboration-services.jpg)
 
