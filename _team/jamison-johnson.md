@@ -2,7 +2,7 @@
 title: "Jamison Johnson"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/jamison-johnson.jpeg"
-jobtitle: Founder & Principal Engineer"
+jobtitle: Founder & Principal Engineer
 linkedinurl: "https://www.linkedin.com/in/jamisonjcjohnson/"
 promoted: true
 weight: 1
