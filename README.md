@@ -29,6 +29,6 @@ Thank you for your interest in Johnson Premier Consulting, LLC. Whether you have
 
 We invite you to complete our [Google Form](https://forms.gle/z9yjMERyy33tNsQo7) for any inquiries or to get in touch with us.
 
-You may visit my [Personal Portfolio](https://jamisonjohnson.me) for more information about him.
+You may visit my [Personal Portfolio](https://jamisonjohnson.me) for more information about my professional career.
 
 You may visit my [Personal Blog](https://jamisonjohnson.me/blog/) for more tech news and informational documentation.
